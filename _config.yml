@@ -3,6 +3,7 @@ title: DeepHyper
 description: Scale Your Exploration
 show_downloads: true
 github:
+  is_project_page: true
   repository_url: https://github.com/deephyper/deephyper
   zip_url: https://github.com/deephyper/deephyper/zipball/master
   tar_url: https://github.com/deephyper/deephyper/tarball/master
