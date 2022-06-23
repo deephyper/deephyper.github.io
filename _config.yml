@@ -76,7 +76,7 @@ footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
 # Build settings
-theme: beautiful-jekyll-theme
+remote_theme: daattali/beautiful-jekyll@5.0.0
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
