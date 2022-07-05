@@ -4,7 +4,7 @@ title: About Us
 subtitle: The DeepHyper Team
 ---
 
-The DeepHyper project is lead by Prasanna Balaprakash <pbalapra@anl.gov> and co-lead by Romain Egele <romainegele@gmail.com>.
+The DeepHyper project is lead by [Prasanna Balaprakash](https://pbalapra.github.io) <pbalapra@anl.gov> and co-lead by [Romain Egele](http://deathn0t.github.io) <romainegele@gmail.com>.
 
 This project was initiated by Prasanna Balaprakash at Argonne National Laboratory.
 
