@@ -21,7 +21,7 @@ Times are shown with respect to the Central Time zone (Chicago, USA).
 * **8:30 -- 9:00**: Checkin and setup
 * **9:00 -- 9:10**: Welcome & Intro (*Prasanna Balaprakash*) [Slides]
 * **9:10 -- 9:30**: Hyperparameter search (*Prasanna Balaprakash*) [Slides]
-* **9:30 -- 10:00**: Hands-on (*Romain Égelé*)  [Notebook]
+* **9:30 -- 10:00**: Hands-on (*Romain Égelé*)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/1-Hyperparameter-Search.ipynb)
 * **10:00 -- 10:20**: Neural architecture search (*Romit Maulik*) [Slides]
 * **10:20 -- 10:50**:  Hands-on (*Romit Maulik*) [Notebook]
 
@@ -44,22 +44,22 @@ Times are shown with respect to the Central Time zone (Chicago, USA).
 
 ### Part 3
 
-* **12:30 -- 12:50**: Multiobjective hyperparameter search (*Anirudh Subramanyam*) [Slides]
-* **12:50 -- 1:20**: Hands-on (*Anirudh Subramanyam*) [Notebook]
-* **1:20 to 1:40**: Transfer learning in hyperparameter search (*Sandeep Madireddy and Tanwi Mallick*) [Slides]
-* **1:40 -- 2:10**: Hands-on (*Sandeep Madireddy and Tanwi Mallick*) [Notebook]
 
+* **12:30 -- 12:50**: Transfer learning in hyperparameter search (*Sandeep Madireddy and Tanwi Mallick*) [Slides]
+* **12:50 -- 1:20**: Hands-on (*Sandeep Madireddy and Tanwi Mallick*) [Notebook]
+* **1:20 -- 2:10**: Running DeepHyper at Scale (No handson; only demo)
+    * Perlmutter/NERSC (*Nesar Soorve Ramachandra*) [Slides]
+    * ThetaGPU/ALCF (*Kyle Felker*) [Slides]
+    * Summit/OLCF platforms (*Kyle Felker*) [Slides]
 ---
 
 <center>Break for 10 mins </center>
 
 ---
 
-### Part 4
+### Part 4 - Latest Research
 
-* **2:20 to 2:40**: Graph neural architecture search for molecular property prediction (*Akhil Pandey Akella*) [Slides]
-* **2:40 -- 3:10**: Hands-on (*Akhil Pandey Akella*) [Notebook]
-* **3:10 -- 4:00**: Running DeepHyper at Scale (No handson; only demo)
-    * Perlmutter/NERSC (*Nesar Soorve Ramachandra*) [Slides]
-    * ThetaGPU/ALCF (*Kyle Felker*) [Slides]
-    * Summit/OLCF platforms (*Kyle Felker*) [Slides]
+* **2:20 -- 2:40**: Multiobjective hyperparameter search (*Anirudh Subramanyam*) [Slides]
+* **2:40 -- 3:10**: Hands-on (*Anirudh Subramanyam*) [Notebook]
+* **3:10 -- 3:30**: Graph neural architecture search for molecular property prediction (*Akhil Pandey Akella*) [Slides]
+* **3:30 -- 4:00**: Hands-on (*Akhil Pandey Akella*) [Notebook]
