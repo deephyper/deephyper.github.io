@@ -4,13 +4,81 @@ title: ANL-22 Workshop
 subtitle: Argonne National Laboratory 2022 Workshop
 ---
 
+<style type="text/css" media="screen">
+    .speaker {
+        text-align:center;
+    }
+    .speaker-pic {
+        border-radius: 50%;
+    }
+    .row {
+    display: flex;
+    }
+    .column {
+    flex: 33.33%;
+    padding: 7px;
+    }
+</style>
+
 <center>July 15th 2022</center>
 
 @pbalapra: Add short intro for the workshop!
 
 ## Organizers
 
-@pbalapra: Add pictures of speakers + link to portfolio!
+<div class="row">
+    <div class="speaker column">
+        <img class="speaker-pic" src="/assets/events/workshop-anl-2022-summer/prasanna-balaprakash.png" alt="prasanna balaprakash">
+        <p>Prasanna Balaprakash</p>
+    </div>
+    <div class="speaker column">
+        <img class="speaker-pic" src="/assets/events/workshop-anl-2022-summer/romain-egele.jpg" alt="romain egele">
+        <p>Romain Egele</p>
+    </div>
+    <div class="speaker column">
+        <img class="speaker-pic" src="/assets/events/workshop-anl-2022-summer/romit-maulik.png" alt="romit maulik">
+        <p>Romit Maulik</p>
+    </div>
+</div>
+<div class="row">
+    <div class="speaker column">
+        <img class="speaker-pic" src="/assets/events/workshop-anl-2022-summer/bethany-lusch.jpg" alt="bethany lusch">
+        <p>Bethany Lusch</p>
+    </div>
+    <div class="speaker column">
+        <img class="speaker-pic" src="/assets/events/workshop-anl-2022-summer/krishnan-raghavan.jpeg" alt="krishnan raghavan">
+        <p>Krishnan Raghavan</p>
+    </div>
+    <div class="speaker column">
+        <img class="speaker-pic" src="/assets/events/workshop-anl-2022-summer/sandeep-madireddy.jpg" alt="sandeep madireddy">
+        <p>Sandeep Madireddy</p>
+    </div>
+</div>
+<div class="row">
+    <div class="speaker column">
+        <img class="speaker-pic" src="/assets/events/workshop-anl-2022-summer/empty-picture.webp" alt="tanwi mallick">
+        <p>Tanwi Mallick</p>
+    </div>
+    <div class="speaker column">
+        <img class="speaker-pic" src="/assets/events/workshop-anl-2022-summer/empty-picture.webp" alt="nesar soorve ramachandra">
+        <p>Nesar Soorve Ramachandra</p>
+    </div>
+    <div class="speaker column">
+        <img class="speaker-pic" src="/assets/events/workshop-anl-2022-summer/kyle-felker.jpeg" alt="kyle felker">
+        <p>Kyle Felker</p>
+    </div>
+</div>
+<div class="row">
+    <div class="speaker column">
+        <img class="speaker-pic" src="/assets/events/workshop-anl-2022-summer/empty-picture.webp" alt="anirudh subramanyam">
+        <p>Anirudh Subramanyam</p>
+    </div>
+    <div class="speaker column">
+        <img class="speaker-pic" src="/assets/events/workshop-anl-2022-summer/empty-picture.webp" alt="akhil pandey akella">
+        <p>Akhil Pandey Akella</p>
+    </div>
+    <div class="column"></div>
+</div>
 
 ## Program
 
@@ -51,6 +119,7 @@ Times are shown with respect to the Central Time zone (Chicago, USA).
     * Perlmutter/NERSC (*Nesar Soorve Ramachandra*) [Slides]
     * ThetaGPU/ALCF (*Kyle Felker*) [Slides]
     * Summit/OLCF platforms (*Kyle Felker*) [Slides]
+
 ---
 
 <center>Break for 10 mins </center>
