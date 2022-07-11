@@ -60,7 +60,7 @@ subtitle: Argonne National Laboratory 2022 Workshop
         <p>Tanwi Mallick</p>
     </div>
     <div class="speaker column">
-        <img class="speaker-pic" src="/assets/events/workshop-anl-2022-summer/empty-picture.webp" alt="nesar soorve ramachandra">
+        <img class="speaker-pic" src="/assets/events/workshop-anl-2022-summer/nesar-soorve-ramachandra.jpeg" alt="nesar soorve ramachandra">
         <p>Nesar Soorve Ramachandra</p>
     </div>
     <div class="speaker column">
@@ -70,7 +70,7 @@ subtitle: Argonne National Laboratory 2022 Workshop
 </div>
 <div class="row">
     <div class="speaker column">
-        <img class="speaker-pic" src="/assets/events/workshop-anl-2022-summer/empty-picture.webp" alt="anirudh subramanyam">
+        <img class="speaker-pic" src="/assets/events/workshop-anl-2022-summer/anirudh-subramanyam.jpeg" alt="anirudh subramanyam">
         <p>Anirudh Subramanyam</p>
     </div>
     <div class="speaker column">
@@ -89,9 +89,9 @@ Times are shown with respect to the Central Time zone (Chicago, USA).
 * **8:30 -- 9:00**: Checkin and setup
 * **9:00 -- 9:10**: Welcome & Intro (*Prasanna Balaprakash*) [Slides]
 * **9:10 -- 9:30**: Hyperparameter search (*Prasanna Balaprakash*) [Slides]
-* **9:30 -- 10:00**: Hands-on (*Romain Égelé*)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/1-Hyperparameter-Search.ipynb)
+* **9:30 -- 10:00**: Hands-on (*Romain Égelé*) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/1-Hyperparameter-Search.ipynb)
 * **10:00 -- 10:20**: Neural architecture search (*Romit Maulik*) [Slides]
-* **10:20 -- 10:50**:  Hands-on (*Romit Maulik*) [Notebook]
+* **10:20 -- 10:50**:  Hands-on (*Romit Maulik*) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/2-Neural-Architecture-Search.ipynb)
 
 --- 
 
@@ -102,7 +102,7 @@ Times are shown with respect to the Central Time zone (Chicago, USA).
 ### Part 2
 
 * **11:00 -- 11:20**: Ensembles & uncertainty quantification (*Bethany Lusch and Krishnan Raghavan*) [Slides]
-* **11:20 -- 11:50**: Hands-on (*Bethany Lusch and Krishnan Raghavan*) [Notebook]
+* **11:20 -- 11:50**: Hands-on (*Bethany Lusch and Krishnan Raghavan*) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/3-Ensemble-and-Uncertainty-Quantification.ipynb)
 
 ---
 
