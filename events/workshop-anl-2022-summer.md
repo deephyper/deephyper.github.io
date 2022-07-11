@@ -56,7 +56,7 @@ subtitle: Argonne National Laboratory 2022 Workshop
 </div>
 <div class="row">
     <div class="speaker column">
-        <img class="speaker-pic" src="/assets/events/workshop-anl-2022-summer/empty-picture.webp" alt="tanwi mallick">
+        <img class="speaker-pic" src="/assets/events/workshop-anl-2022-summer/tanwi-mallick.jpg" alt="tanwi mallick">
         <p>Tanwi Mallick</p>
     </div>
     <div class="speaker column">
@@ -74,10 +74,21 @@ subtitle: Argonne National Laboratory 2022 Workshop
         <p>Anirudh Subramanyam</p>
     </div>
     <div class="speaker column">
-        <img class="speaker-pic" src="/assets/events/workshop-anl-2022-summer/empty-picture.webp" alt="akhil pandey akella">
+        <img class="speaker-pic" src="/assets/events/workshop-anl-2022-summer/akhil-pandey-akella.jpg" alt="akhil pandey akella">
         <p>Akhil Pandey Akella</p>
     </div>
-    <div class="column"></div>
+    <div class="speaker column">
+        <img class="speaker-pic" src="/assets/events/workshop-anl-2022-summer/joceran-gouneau.png" alt="joceran gouneau">
+        <p>Joceran Gouneau</p>
+    </div>
+</div>
+<div class="row">
+    <div class="speaker column">
+        <img class="speaker-pic" src="/assets/events/workshop-anl-2022-summer/sam-foreman.jpg" alt="sam foreman">
+        <p>Sam Foreman</p>
+    </div>
+    <div class="speaker column"></div>
+    <div class="speaker column"></div>
 </div>
 
 ## Program
@@ -117,7 +128,7 @@ Times are shown with respect to the Central Time zone (Chicago, USA).
 * **12:50 -- 1:20**: Hands-on (*Sandeep Madireddy and Tanwi Mallick*) [Notebook]
 * **1:20 -- 2:10**: Running DeepHyper at Scale (No handson; only demo)
     * Perlmutter/NERSC (*Nesar Soorve Ramachandra*) [Slides]
-    * ThetaGPU/ALCF (*Kyle Felker*) [Slides]
+    * ThetaGPU/ALCF (*Sam Foreman*, *Joceran Gouneau*) [Slides]
     * Summit/OLCF platforms (*Kyle Felker*) [Slides]
 
 ---
