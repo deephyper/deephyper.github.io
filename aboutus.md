@@ -19,7 +19,7 @@ Major contributors:
 - Misha Salim - Basis of hyperparameter search and parallel execution of jobs with Balsam
 - Matthieu Dorier - Autotuning of HEPnOS software runtime
 
-Other contributors, listed alphabetically, are:
+Other contributors:
 - Dipendra Kumar Jha - Basis of neural architecture search
 - Elise Jennings - Hyperparameter search with time reduction
 - Felix Perez - Refactoring of Evaluator API with AsyncIO, Documentation
