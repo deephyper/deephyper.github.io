@@ -6,7 +6,7 @@ subtitle: The DeepHyper Team
 
 The DeepHyper project is led by [Prasanna Balaprakash](https://pbalapra.github.io) (<pbalapra@anl.gov>) and co-led by [Romain Egele](http://deathn0t.github.io) (<romainegele@gmail.com>).
 
-[This project was started by Prasanna Balaprakash at Argonne National Laboratory.]
+<This project was started by Prasanna Balaprakash at Argonne National Laboratory.>
 
 Other co-maintainers:
 - Joceran Gouneau <joceran.g@gmail.com>
@@ -30,6 +30,6 @@ Other contributors, listed alphabetically, are:
 - Zachariah Carmichael - Light fix
 - Denis Boyda - Light fix and tutorials
 
-[Thank you so much to all the contributors for their help!]
+<Thank you so much to all the contributors for their help!>
 
-If we forgot you, please contact us at <pbalapra@anl.gov> or <romainegele@gmail.com>.
+If you have contributed to the DeepHyper project but your name is not listed, please contact us at <pbalapra@anl.gov> or <romainegele@gmail.com>.
