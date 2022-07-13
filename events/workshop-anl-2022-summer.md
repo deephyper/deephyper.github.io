@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ANL-22 Workshop
-subtitle: Argonne National Laboratory 2022 Workshop
+#title: ALCF DeepHyper Automated Machine Learning Workshop
+#subtitle: Argonne National Laboratory
 ---
 
 <style type="text/css" media="screen">
@@ -9,7 +9,7 @@ subtitle: Argonne National Laboratory 2022 Workshop
         text-align:center;
     }
     .speaker-pic {
-        border-radius: 50%;
+        border-radius: 30%;
     }
     .row {
     display: flex;
@@ -20,9 +20,15 @@ subtitle: Argonne National Laboratory 2022 Workshop
     }
 </style>
 
-<center>July 15th 2022</center>
+<center>ALCF DeepHyper Automated Machine Learning Workshop</center>
+<center>Argonne National Laboratory</center>
+<center>July 15, 2022</center>
 
-@pbalapra: Add short intro for the workshop!
+The Argonne Leadership Computing Facility (ALCF) will host a hands-on training session on DeepHyper (https://github.com/deephyper/deephyper), a distributed automated machine learning (AutoML) software package for automating the design and development of deep neural networks for scientific and engineering applications.
+
+DeepHyper seeks to bring a scientifically rigorous automated approach to neural network model development by reducing the manually intensive, cumbersome, ad hoc, trial-and-error efforts. 
+
+DeepHyper can run on a laptop, medium range clusters, and supercomputers with thousands of compute units (GPUs).
 
 ## Organizers
 
@@ -91,9 +97,15 @@ subtitle: Argonne National Laboratory 2022 Workshop
     <div class="speaker column"></div>
 </div>
 
-## Program
+## Event details 
 
-Times are shown with respect to the Central Time zone (Chicago, USA).
+In this virtual workshop attendees will learn various capabilities of the DeepHyper software to automate the design and development of neural networks.
+
+DeepHyper GitHub repo: https://github.com/deephyper/deephyper
+
+DeepHyper Documentation: https://deephyper.readthedocs.io/en/latest/
+
+** All times are Central Standard Time (CST) **
 
 ### Part 1
 
