@@ -114,7 +114,7 @@ In this virtual workshop attendees will learn various capabilities of the DeepHy
 * **8:30 -- 9:00**: Checkin and setup
 * **9:00 -- 9:10**: Welcome & Intro (*Prasanna Balaprakash*) [Slides]
 * **9:10 -- 9:30**: Hyperparameter search (*Prasanna Balaprakash*) [Slides]
-* **9:30 -- 10:00**: Hands-on (*Romain Égelé*) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/1-Hyperparameter-Search.ipynb)
+* **9:30 -- 10:00**: Hands-on (*Romain Egele*) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/1-Hyperparameter-Search.ipynb)
 * **10:00 -- 10:20**: Neural architecture search (*Romit Maulik*) [Slides]
 * **10:20 -- 10:50**:  Hands-on (*Romit Maulik*) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/2-Neural-Architecture-Search.ipynb)
 
