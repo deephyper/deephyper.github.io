@@ -25,4 +25,4 @@ Scale to thousands of parallel workers with our centralized and fully distribute
 
 ## Contact
 
-The DeepHyper project is lead by [Prasanna Balaprakash](https://pbalapra.github.io) <pbalapra@anl.gov> and co-lead by [Romain Egele](http://deathn0t.github.io) <romainegele@gmail.com>.
+The DeepHyper project is lead by [Prasanna Balaprakash](https://pbalapra.github.io) (*pbalapra[at]anl[dot]gov*) and co-lead by [Romain Egele](http://deathn0t.github.io) (*romainegele[at]gmail[dot]com*).

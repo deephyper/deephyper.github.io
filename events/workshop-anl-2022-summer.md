@@ -1,7 +1,7 @@
 ---
 layout: page
-#title: ALCF DeepHyper Automated Machine Learning Workshop
-#subtitle: Argonne National Laboratory
+# title: ALCF DeepHyper AutoML Workshop
+# subtitle: Argonne National Laboratory
 ---
 
 <style type="text/css" media="screen">
@@ -20,11 +20,13 @@ layout: page
     }
 </style>
 
-<center>ALCF DeepHyper Automated Machine Learning Workshop</center>
-<center>Argonne National Laboratory</center>
-<center>July 15, 2022</center>
+<h1 style="text-align: center;">ALCF DeepHyper Automated Machine Learning Workshop</h1>
+<p style="text-align: center;">Argonne National Laboratory</p>
+<p style="text-align: center;">July 15, 2022</p>
 
-The Argonne Leadership Computing Facility (ALCF) will host a hands-on training session on DeepHyper (https://github.com/deephyper/deephyper), a distributed automated machine learning (AutoML) software package for automating the design and development of deep neural networks for scientific and engineering applications.
+---
+
+The Argonne Leadership Computing Facility (ALCF) will host a hands-on training session on DeepHyper ([github.com/deephyper/deephyper](https://github.com/deephyper/deephyper)), a distributed automated machine learning (AutoML) software package for automating the design and development of deep neural networks for scientific and engineering applications.
 
 DeepHyper seeks to bring a scientifically rigorous automated approach to neural network model development by reducing the manually intensive, cumbersome, ad hoc, trial-and-error efforts. 
 
@@ -101,11 +103,11 @@ DeepHyper can run on a laptop, medium range clusters, and supercomputers with th
 
 In this virtual workshop attendees will learn various capabilities of the DeepHyper software to automate the design and development of neural networks.
 
-DeepHyper GitHub repo: https://github.com/deephyper/deephyper
+* Workshop repo: [github.com/deephyper/anl-22-summer-workshop](https://github.com/deephyper/anl-22-summer-workshop)
+* DeepHyper GitHub repo: [github.com/deephyper/deephyper](https://github.com/deephyper/deephyper)
+* DeepHyper Documentation: [deephyper.readthedocs.io](https://deephyper.readthedocs.io)
 
-DeepHyper Documentation: https://deephyper.readthedocs.io/en/latest/
-
-** All times are Central Standard Time (CST) **
+**All times are Central Standard Time (CST)**
 
 ### Part 1
 
