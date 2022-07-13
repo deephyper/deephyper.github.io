@@ -28,6 +28,7 @@ navbar-links:
   Documentation: "http://deephyper.readthedocs.io"
   Events & Workshops:
     - ANL-22 Summer: "events/workshop-anl-2022-summer"
+  Publications: "papers"
   About Us: "aboutus"
 
 avatar: "/assets/img/avatar-icon.png"
