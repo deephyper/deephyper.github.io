@@ -125,7 +125,7 @@ Times are shown with respect to the Central Time zone (Chicago, USA).
 
 
 * **12:30 -- 12:50**: Transfer learning in hyperparameter search (*Sandeep Madireddy and Tanwi Mallick*) [Slides]
-* **12:50 -- 1:20**: Hands-on (*Sandeep Madireddy and Tanwi Mallick*) [Notebook]
+* **12:50 -- 1:20**: Hands-on (*Sandeep Madireddy and Tanwi Mallick*) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/4-Transfer-Learning-for-Hyperparameter-Search.ipynb)
 * **1:20 -- 2:10**: Running DeepHyper at Scale (No handson; only demo)
     * Perlmutter/NERSC (*Nesar Soorve Ramachandra*) [Slides]
     * ThetaGPU/ALCF (*Sam Foreman*, *Joceran Gouneau*) [Slides]
