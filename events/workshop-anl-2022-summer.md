@@ -141,9 +141,9 @@ In this virtual workshop attendees will learn various capabilities of the DeepHy
 * **12:30 -- 12:50**: Transfer learning in hyperparameter search (*Sandeep Madireddy and Tanwi Mallick*) [Slides]
 * **12:50 -- 1:20**: Hands-on (*Sandeep Madireddy and Tanwi Mallick*) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/4-Transfer-Learning-for-Hyperparameter-Search.ipynb)
 * **1:20 -- 2:10**: Running DeepHyper at Scale (No handson; only demo)
-    * Perlmutter/NERSC (*Nesar Soorve Ramachandra*) [Slides]
-    * ThetaGPU/ALCF (*Sam Foreman*, *Joceran Gouneau*) [Slides]
-    * Summit/OLCF platforms (*Kyle Felker*) [Slides]
+    * NERSC-Perlmutter (*Nesar Soorve Ramachandra*) [Slides,[Example](https://github.com/deephyper/anl-22-summer-workshop/tree/main/scripts/NERSC-Perlmutter)]
+    * ALCF-ThetaGPU (*Sam Foreman*, *Joceran Gouneau*) [Slides,[Example](https://github.com/deephyper/anl-22-summer-workshop/tree/main/scripts/ALCF-ThetaGPU)]
+    * OLCF-Summit platforms (*Kyle Felker*) [Slides,[Example](https://github.com/deephyper/anl-22-summer-workshop/tree/main/scripts/OLCF-Summit)]
 
 ---
 
@@ -154,6 +154,6 @@ In this virtual workshop attendees will learn various capabilities of the DeepHy
 ### Part 4 - Latest Research
 
 * **2:20 -- 2:40**: Multiobjective hyperparameter search (*Anirudh Subramanyam*) [Slides]
-* **2:40 -- 3:10**: Hands-on (*Anirudh Subramanyam*) [Notebook]
+* **2:40 -- 3:10**: Hands-on (*Anirudh Subramanyam*) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/5-Multi-Objectives-Hyperparameter-Search.ipynb)
 * **3:10 -- 3:30**: Graph neural architecture search for molecular property prediction (*Akhil Pandey Akella*) [Slides]
-* **3:30 -- 4:00**: Hands-on (*Akhil Pandey Akella*) [Notebook]
+* **3:30 -- 4:00**: Hands-on (*Akhil Pandey Akella*) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/6-Graph-NAS-for-molecular-property-prediction.ipynb)
