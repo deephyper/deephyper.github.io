@@ -107,7 +107,7 @@ In this virtual workshop attendees will learn various capabilities of the DeepHy
 * DeepHyper GitHub repo: [github.com/deephyper/deephyper](https://github.com/deephyper/deephyper)
 * DeepHyper Documentation: [deephyper.readthedocs.io](https://deephyper.readthedocs.io)
 
-**All times are Central Standard Time (CST)**
+**All times are Central Standard Time (CDT)**
 
 ### Part 1
 
