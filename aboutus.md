@@ -27,5 +27,6 @@ Other contributors:
 - Sun Haozhe - Light fix
 - Zachariah Carmichael - Light fix
 - Denis Boyda - Light fix and tutorials
+- Ian Wixom - Tutorials
 
 If you have contributed to the DeepHyper project but your name is not listed, please contact us.
