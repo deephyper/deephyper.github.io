@@ -156,6 +156,6 @@ In this virtual workshop attendees will learn various capabilities of the DeepHy
 
 * **2:20 -- 2:40**: Multiobjective hyperparameter search (*Anirudh Subramanyam*) [[Slides](https://anl.box.com/s/raf8nae7tz256b9eenghc13b0lhnupq8)]
 [[Video](https://youtu.be/I2H6yQiaf2w)]
-* **2:40 -- 3:10**: Hands-on (*Anirudh Subramanyam*) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/5-Multi-Objectives-Hyperparameter-Search.ipynb)https://youtu.be/PpwEWDqWSjE)]
+* **2:40 -- 3:10**: Hands-on (*Anirudh Subramanyam*) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/5-Multi-Objectives-Hyperparameter-Search.ipynb)[[Video](https://youtu.be/PpwEWDqWSjE)]
 * **3:10 -- 3:30**: Graph neural architecture search for molecular property prediction (*Akhil Pandey Akella*) [[Slides](https://anl.box.com/s/481wknwdiehexf0nidbojxabj4nvez56)][[Video](https://youtu.be/oiAGCAlFyvc)]
 * **3:30 -- 4:00**: Hands-on (*Akhil Pandey Akella*) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/6-Graph-NAS-for-molecular-property-prediction.ipynb)[[Video](https://youtu.be/Fo7_pWeueb4)]
