@@ -5,12 +5,13 @@ title: Publications
 
 # 2022
 
-* [*Pre-Print*] Egele, Romain, et al. **"Asynchronous Distributed Bayesian Optimization at HPC Scale."** ([arXiv](https://arxiv.org/pdf/2207.00479))
+* Dorier, Matthieu, and Egele, Romain, et al. **"HPC Storage Service Autotuning Using Variational-Autoencoder-Guided Asynchronous Bayesian Optimization"**. International Conference on Cluster Computing (Cluster). IEEE, 2022. ([arXiv](https://arxiv.org/pdf/2210.00798.pdf))
+* Egele, Romain, et al. **"AutoDEUQ: Automated Deep Ensemble with Uncertainty Quantification."** International Conference on Pattern Recognition (ICPR), 2022. ([arXiv](https://arxiv.org/pdf/2110.13511.pdf))
+* [*Pre-Print*] Egele, Romain, et al. **"Asynchronous Distributed Bayesian Optimization at HPC Scale."** ([arXiv](https://arxiv.org/pdf/2207.00479.pdf))
 
 # 2021
 
 * Egele, Romain, et al. **"AgEBO-tabular: joint neural architecture and hyperparameter search with autotuned data-parallel training for tabular data."** SC21: International Conference for High Performance Computing, Networking, Storage and Analysis. IEEE, 2021.
-* [*Pre-Print*] Egele, Romain, et al. **"AutoDEUQ: Automated Deep Ensemble with Uncertainty Quantification."** ([arXiv](https://arxiv.org/pdf/2110.13511.pdf))
 
 # 2020
 
