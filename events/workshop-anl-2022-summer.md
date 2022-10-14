@@ -112,11 +112,11 @@ In this virtual workshop attendees will learn various capabilities of the DeepHy
 ### Part 1
 
 * **8:30 -- 9:00**: Checkin and setup
-* **9:00 -- 9:10**: Welcome & Intro (*Prasanna Balaprakash*) [[Slides](https://anl.box.com/s/z8sffzv2omyfesuve4xsi8a6br7m8mfq)]
-* **9:10 -- 9:30**: Hyperparameter search (*Prasanna Balaprakash*) [[Slides](https://anl.box.com/s/y5udubrkaz31616liccrfkvk340svsa6)]
-* **9:30 -- 10:00**: Hands-on (*Romain Egele*) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/1-Hyperparameter-Search.ipynb)
-* **10:00 -- 10:20**: Neural architecture search (*Romit Maulik*) [[Slides](https://anl.box.com/s/ban4fb66f90h368jv5u8yubeqv5558yf)]
-* **10:20 -- 10:50**:  Hands-on (*Romit Maulik*) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/2-Neural-Architecture-Search.ipynb)
+* **9:00 -- 9:10**: Welcome & Intro (*Prasanna Balaprakash*) [[Slides](https://anl.box.com/s/z8sffzv2omyfesuve4xsi8a6br7m8mfq)][[Video](https://youtu.be/vGzDw6FwWBg)]
+* **9:10 -- 9:30**: Hyperparameter search (*Prasanna Balaprakash*) [[Slides](https://anl.box.com/s/y5udubrkaz31616liccrfkvk340svsa6)][[Video](https://youtu.be/scrXm5XQsNA)]
+* **9:30 -- 10:00**: Hands-on (*Romain Egele*) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/1-Hyperparameter-Search.ipynb)[[Video](https://youtu.be/d9qjDXSCvXE)] 
+* **10:00 -- 10:20**: Neural architecture search (*Romit Maulik*) [[Slides](https://anl.box.com/s/ban4fb66f90h368jv5u8yubeqv5558yf)][[Video](https://youtu.be/58a_3pUxJvg)]
+* **10:20 -- 10:50**:  Hands-on (*Romit Maulik*) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/2-Neural-Architecture-Search.ipynb)[[Video](https://youtu.be/v5vjd8lMVIo)]
 
 --- 
 
@@ -126,8 +126,8 @@ In this virtual workshop attendees will learn various capabilities of the DeepHy
 
 ### Part 2
 
-* **11:00 -- 11:20**: Ensembles & uncertainty quantification (*Bethany Lusch and Krishnan Raghavan*) [[Slides](https://anl.box.com/s/he0v6248tu2lbw271vqk2bb3fkyyzj0r)]
-* **11:20 -- 11:50**: Hands-on (*Bethany Lusch and Krishnan Raghavan*) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/3-Ensemble-and-Uncertainty-Quantification.ipynb)
+* **11:00 -- 11:20**: Ensembles & uncertainty quantification (*Bethany Lusch and Krishnan Raghavan*) [[Slides](https://anl.box.com/s/he0v6248tu2lbw271vqk2bb3fkyyzj0r)][[Video](https://youtu.be/rtO7M_AaqFk)]
+* **11:20 -- 11:50**: Hands-on (*Bethany Lusch and Krishnan Raghavan*) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/3-Ensemble-and-Uncertainty-Quantification.ipynb)[[Video](https://youtu.be/jxZKJO0m1uE)]
 
 ---
 
@@ -138,12 +138,13 @@ In this virtual workshop attendees will learn various capabilities of the DeepHy
 ### Part 3
 
 
-* **12:30 -- 12:50**: Transfer learning in hyperparameter search (*Sandeep Madireddy and Tanwi Mallick*) [[Slides](https://anl.box.com/s/8uj77sf1f4ogvvn875emzmc49mxx1yj3)]
-* **12:50 -- 1:20**: Hands-on (*Sandeep Madireddy and Tanwi Mallick*) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/4-Transfer-Learning-for-Hyperparameter-Search.ipynb)
-* **1:20 -- 2:10**: Running DeepHyper at Scale (No handson; only demo)
+* **12:30 -- 12:50**: Transfer learning in hyperparameter search (*Sandeep Madireddy and Tanwi Mallick*) [[Slides](https://anl.box.com/s/8uj77sf1f4ogvvn875emzmc49mxx1yj3)][[Video](https://youtu.be/qSnJej5OrgQ)]
+* **12:50 -- 1:20**: Hands-on (*Sandeep Madireddy and Tanwi Mallick*) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/4-Transfer-Learning-for-Hyperparameter-Search.ipynb)[[Video](https://youtu.be/bJyHNy7Hfgg)]
+* **1:20 -- 2:10**: Running DeepHyper at Scale (No handson; only demo)[[Video](https://youtu.be/2eh-HLhg79c)]
     * NERSC-Perlmutter (*Nesar Soorve Ramachandra*) [[Slides](https://anl.box.com/s/yjux60pmivq60csvz3dbr8lfftq07utr),[Example](https://github.com/deephyper/anl-22-summer-workshop/tree/main/scripts/NERSC-Perlmutter)]
     * ALCF-ThetaGPU (*Sam Foreman*, *Joceran Gouneau*) [[Slides](https://anl.box.com/s/rzmb2mw2f2simua7fil6ngn4qpeuwgi0),[Example](https://github.com/deephyper/anl-22-summer-workshop/tree/main/scripts/ALCF-ThetaGPU)]
     * OLCF-Summit platforms (*Kyle Felker*) [[Slides](https://anl.box.com/s/ntq8ppk20jjhx2fh6dntjkqk3rp0imgm),[Example](https://github.com/deephyper/anl-22-summer-workshop/tree/main/scripts/OLCF-Summit)]
+
 
 ---
 
@@ -154,6 +155,7 @@ In this virtual workshop attendees will learn various capabilities of the DeepHy
 ### Part 4 - Latest Research
 
 * **2:20 -- 2:40**: Multiobjective hyperparameter search (*Anirudh Subramanyam*) [[Slides](https://anl.box.com/s/raf8nae7tz256b9eenghc13b0lhnupq8)]
-* **2:40 -- 3:10**: Hands-on (*Anirudh Subramanyam*) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/5-Multi-Objectives-Hyperparameter-Search.ipynb)
-* **3:10 -- 3:30**: Graph neural architecture search for molecular property prediction (*Akhil Pandey Akella*) [[Slides](https://anl.box.com/s/481wknwdiehexf0nidbojxabj4nvez56)]
-* **3:30 -- 4:00**: Hands-on (*Akhil Pandey Akella*) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/6-Graph-NAS-for-molecular-property-prediction.ipynb)
+[[Video](https://youtu.be/I2H6yQiaf2w)]
+* **2:40 -- 3:10**: Hands-on (*Anirudh Subramanyam*) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/5-Multi-Objectives-Hyperparameter-Search.ipynb)[[Video](https://youtu.be/PpwEWDqWSjE)]
+* **3:10 -- 3:30**: Graph neural architecture search for molecular property prediction (*Akhil Pandey Akella*) [[Slides](https://anl.box.com/s/481wknwdiehexf0nidbojxabj4nvez56)][[Video](https://youtu.be/oiAGCAlFyvc)]
+* **3:30 -- 4:00**: Hands-on (*Akhil Pandey Akella*) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deephyper/anl-22-summer-workshop/blob/main/notebooks/6-Graph-NAS-for-molecular-property-prediction.ipynb)[[Video](https://youtu.be/Fo7_pWeueb4)]
