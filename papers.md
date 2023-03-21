@@ -11,7 +11,7 @@ title: Publications
 
 # 2021
 
-* Egele, Romain, et al. **"AgEBO-tabular: joint neural architecture and hyperparameter search with autotuned data-parallel training for tabular data."** SC21: International Conference for High Performance Computing, Networking, Storage and Analysis. IEEE, 2021.
+* Egele, Romain, et al. **"AgEBO-tabular: joint neural architecture and hyperparameter search with autotuned data-parallel training for tabular data."** SC21: International Conference for High Performance Computing, Networking, Storage and Analysis. IEEE, 2021. ([arXiv](https://arxiv.org/pdf/2010.16358.pdf))
 
 # 2020
 
@@ -20,7 +20,7 @@ title: Publications
 
 # 2019
 
-* Balaprakash, Prasanna, and Egele, Romain, et al. **"Scalable reinforcement-learning-based neural architecture search for cancer deep learning research."** SC19: International Conference for High Performance Computing, Networking, Storage and Analysis. IEEE, 2019. ([arXiv](https://arxiv.org/pdf/1909.00311.pdf])
+* Balaprakash, Prasanna, and Egele, Romain, et al. **"Scalable reinforcement-learning-based neural architecture search for cancer deep learning research."** SC19: International Conference for High Performance Computing, Networking, Storage and Analysis. IEEE, 2019. ([arXiv](https://arxiv.org/pdf/1909.00311.pdf))
 
 # 2018
 
