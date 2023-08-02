@@ -30,3 +30,14 @@ Other contributors:
 - Ian Wixom - Tutorials
 
 If you have contributed to the DeepHyper project but your name is not listed, please contact us.
+
+BibTex Citation:
+```
+@misc{deephyper_software,
+title = {"DeepHyper: A Python Package for Scalable Neural Architecture and Hyperparameter Search"},
+author = {{DeepHyper Development Team}},
+organization = {DeepHyper Team},
+year = 2018,
+url = {https://github.com/deephyper/deephyper}
+} 
+```

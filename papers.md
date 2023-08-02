@@ -3,11 +3,16 @@ layout: page
 title: Publications
 ---
 
+# 2023
+
+* Maulik, Romit, et al. (2023). **"Quantifying uncertainty for deep learning based forecasting and flow-reconstruction using neural architecture search ensembles"**. Elsevier, Physica D: NonLinear Phenomena. ([arXiv](https://arxiv.org/pdf/2302.09748.pdf))
+* Egele, Romain, et al. **"Is One Epoch All You Need For Multi-Fidelity Hyperparameter Optimization"**? European Symposium on Artificial Neural Networks, 2023. ([arXiv](https://arxiv.org/pdf/2307.15422.pdf))
+* Egele, Romain, et al. **"Asynchronous Decentralized Bayesian Optimization For Large Scale Hyperparameter Optimization"**. IEEE, eScience, 2023.
+
 # 2022
 
 * Dorier, Matthieu, and Egele, Romain, et al. **"HPC Storage Service Autotuning Using Variational-Autoencoder-Guided Asynchronous Bayesian Optimization"**. International Conference on Cluster Computing (Cluster). IEEE, 2022. ([arXiv](https://arxiv.org/pdf/2210.00798.pdf))
 * Egele, Romain, et al. **"AutoDEUQ: Automated Deep Ensemble with Uncertainty Quantification."** International Conference on Pattern Recognition (ICPR), 2022. ([arXiv](https://arxiv.org/pdf/2110.13511.pdf))
-* [*Pre-Print*] Egele, Romain, et al. **"Asynchronous Distributed Bayesian Optimization at HPC Scale."** ([arXiv](https://arxiv.org/pdf/2207.00479.pdf))
 
 # 2021
 
